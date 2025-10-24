@@ -1,0 +1,5 @@
+import DevBuildTrackerPage from '../DevBuildTrackerPage';
+
+export default function Home() {
+  return <DevBuildTrackerPage />;
+}
